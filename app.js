@@ -24,6 +24,8 @@
  * git remote add origin https://github.com/qnderson10/curso_node_tabla.git
     git branch -M main
     git push -u origin main
+    Se creo el readme y se hizo un nuevo commit, usando git add . y para subir
+    git push
  */
 
 // tabla del 5 en consola y guardarla en un archivo
